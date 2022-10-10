@@ -59,6 +59,8 @@ Build a Tour Project App using ReactJS.
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
+🔗 To see live version 🎯https://tal58.github.io/tour_places_react/
+
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
 
