@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+.collapse{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+.nav-link{
+    color: white;
+}
+.navbar{
+    padding: 0;
+    font-size: 1.5rem;
+}
+
+a{
+    color: white !important;
+}
+a:hover{
+    color:red !important;
+}

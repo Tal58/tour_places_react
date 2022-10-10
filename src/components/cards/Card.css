@@ -1,0 +1,42 @@
+.card{background-color: black;
+color: white;
+overflow: hidden;
+justify-content: flex-end;
+height: 52vh;
+}
+.title{
+  height: 2rem;
+}
+.accordion{
+    position: absolute;
+}
+.img{
+  height: 45vh;
+}
+.card-img-top{
+  height: 40vh;
+}
+.card-body{
+    
+  position: relative;
+  bottom: -52vh;
+  transition: all 1s;
+}
+
+.card:hover .card-body{   
+    
+    visibility: visible;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);    
+}
+
+.card:hover img{
+  filter: grayscale(100%);
+}
+.card:hover .title{
+  color: red;
+}
+
+
+
+
